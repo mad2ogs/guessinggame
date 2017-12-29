@@ -1,3 +1,3 @@
 ## Guessing Game for Coursera/JHU's The Unix Workbench course
-Create date: 2017/12/29 18:53:58
-Number of lines in guessinggame.sh: 28
+Create date: 2017/12/29 19:00:22
+Number of lines in guessinggame.sh: 33
