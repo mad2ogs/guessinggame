@@ -1,10 +1,10 @@
 #!/bin/bash
 # File: guessinggame.sh
-# Created by Thiago Trancoso de Morais
+# Created by Thiago Trancoso de Morais (2017-12-29)
 
 # Updates 
 # 2017-12-29 - 1.0 - Creation
-# 2017-12-29 - 1.1 - Added interger check to validate users' input
+# 2017-12-29 - 1.1 - Added integer check to validate users' input
 
 function check_number {
 	if [ $1 -lt $2 ]; then
